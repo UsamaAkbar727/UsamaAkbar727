@@ -37,16 +37,6 @@ I'm a passionate **Web Developer** who loves building modern, responsive, and us
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamaakbarjaatt&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaakbarjaatt&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
