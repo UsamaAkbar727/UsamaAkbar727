@@ -1,4 +1,25 @@
-👋 Hi! I'm Usama Akbar — Full Stack Web Developer specializing in React, Node.js, Laravel & PHP. Let's build something great together.
+# 👋 Hello, I'm Usama Akbar
+
+**💻 Full Stack Web Developer** | **React** | **Node.js** | **Express.js** | **Laravel** | **PHP** | **JavaScript**
+
+I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications.
+I focus on writing **clean code**, solving **real-world problems**, and continuously learning new **technologies** to improve my development skills.
+
+---
+
+## 🚀 About Me
+
+* 🌐 Skilled in **React**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**
+* ⚙️ Experienced in **Node.js**, **Express.js**, **PHP**, and **Laravel**
+* 🗄️ Working with databases like **MongoDB**, **MySQL**, and **SQL**
+* 🛠 Using **Git** and **GitHub** for version control and project management
+* ⚡ Interested in **frontend design**, **backend logic**, and **full-stack development**
+* 📚 Always learning new **frameworks**, tools, and **best coding practices**
+* 🤝 Open to collaborating on **open-source projects** and innovative **web applications**
+
+⭐ *“Code. Learn. Build. Improve.”*
+
+---
 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
